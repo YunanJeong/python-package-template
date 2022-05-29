@@ -26,8 +26,6 @@ practice. how to make python package
 ## 필요 모듈
 - 파이썬 패키지
     - `pip install -r requirements.txt`
-    - (awscli1 필요, requirements.txt에는 미포함)
-
 
 ## 기타 메모
 - 설치방법 관련: 이는 PyPI 에 배포하기 위한 방법이 아니라, 소스코드 전체를 git 등으로 공유할 떄 사용할 수 있는 방법임.
