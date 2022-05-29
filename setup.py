@@ -23,8 +23,6 @@ setup(
     author='njhgle@gmail.com',
     pythonrequires='>=3.7',
     install_requires=[
-        'wheel',
-        'pymssql',
-        'PyYAML'
+        'wheel'
     ]
 )
