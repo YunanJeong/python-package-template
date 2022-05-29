@@ -13,7 +13,7 @@ requirements.txt는 PyPI 외에 다운 경로를 지정할 수 있다. (ex. priv
 import os
 from setuptools import setup
 
-with open(os.path.join('dbextr', 'version.py'), 'rt') as f:
+with open(os.path.join('packagename', 'version.py'), 'rt') as f:
     version = f.readline().strip()
     version = version.split('=')[1].strip()
     version = version.strip("'")
