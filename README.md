@@ -1,4 +1,4 @@
-# python_package_test
+# python-package-test
 practice. how to make python package
 
 ## 파일 및 디렉토리 설명
