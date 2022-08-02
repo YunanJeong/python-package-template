@@ -16,7 +16,7 @@ import argparse
 import util
 
 def main(required, start, end):
-    util.example_func(requird)
+    util.example_func(required)
     util.example_func_sub(start)
     util.example_func_sub(end)
 
